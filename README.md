@@ -1,6 +1,8 @@
 # SATikuti, SAT solver
 
-Work-in-progress SAT solver (using brute-force strategy). SAT, also known as [boolean satisfiability problem](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem#Self-reducibility), is a NP-hard problem. There are no known algorithms that solve SAT efficently in all cases but some algoritms exist that work in most cases.
+**WORK IN PROGRESS**
+
+SAT solver (using brute-force strategy). SAT, also known as [boolean satisfiability problem](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem#Self-reducibility), is a NP-hard problem. There are no known algorithms that solve SAT efficently in all cases but some algoritms exist that work in most cases.
 
 ## Usage
 
